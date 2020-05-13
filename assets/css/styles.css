@@ -1,0 +1,33 @@
+.main-content {
+  background-color: #e6e6ff;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+.btn.btn-primary.space {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.body {
+  background: linear-gradient(to right, #004e92, #000428);
+}
+
+.h2, h2 {
+  color: white;
+}
+
+.text-justifyy {
+  text-align: justify;
+  font-size: 15px;
+}
+
+.copyright {
+  color: white;
+  text-align: center;
+}
+
+.mr-5, .mx-5 {
+  margin-bottom: 250px;
+}
+
